@@ -1,2 +1,2 @@
-# QuechuaAppV2
-Quechua App!
+# QechuaApp
+Quechua Android Application

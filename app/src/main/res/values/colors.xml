@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightBlue">#4897f9</color>
+    <color name="white">#ffffff</color>
+    <color name="lightGray">#e0e0e0</color>
+    <color name="cream">#ffdc9e</color>
+    <color name="grayBlue">#6497b1</color>
+    <color name="red">#d7041d</color>
+
+    <color name="cursosBackground1">#DAE8FC</color>
+    <color name="cursosBackground2">#E1D5E7</color>
+
+</resources>
